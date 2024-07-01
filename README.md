@@ -1,6 +1,3 @@
-Given the code you provided, here is an updated `README.md` file tailored to your specific project:
-
-```markdown
 # ChitChat - An Express and MongoDB Chat Application
 
 This is a simple chat application built using Express.js and MongoDB.
@@ -62,51 +59,4 @@ These instructions will help you set up the project on your local machine for de
 
 ## File Structure
 
-```
-express_mongoDB/
-│
-├── models/
-│   └── chat.js              # Chat model schema
-├── public/
-│   └── ...                  # Static files (CSS, JS, etc.)
-├── views/
-│   ├── edit.ejs             # View for editing a chat
-│   ├── newChat.ejs          # View for creating a new chat
-│   └── showAll.ejs          # View for displaying all chats
-├── index.js                 # Main server file
-├── package.json             # Project metadata and dependencies
-└── README.md                # This README file
-```
 
-## Built With
-
-- [Express.js](https://expressjs.com/) - The web framework used
-- [MongoDB](https://www.mongodb.com/) - NoSQL database
-- [EJS](https://ejs.co/) - Template engine
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/repository/tags).
-
-## Authors
-
-- **Your Name** - *Initial work* - [YourGitHubUsername](https://github.com/YourGitHubUsername)
-
-See also the list of [contributors](https://github.com/your/repository/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-```
-
-Replace `<repository-url>`, `Your Name`, and `YourGitHubUsername` with actual values specific to your project. You can also add more details in the sections as needed.
